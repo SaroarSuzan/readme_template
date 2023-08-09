@@ -71,5 +71,14 @@ saroarhossansuzan@gmail.com
 [fackbook] : https://www.facebook.com/me/
 
 ### image syntax
-![profile] (image)
+
+![profile](./image/IMG_6683.JPG)  
+ 
+😊 
+
+### table syntax
+
+| name | email  
+|------ | ------  
+| saroar suzan | this is my first work |  
 
